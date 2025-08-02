@@ -1,0 +1,17 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:41 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no116; Programe Name: stage1no116
+    2|        {demonstrate correct usage of Pascal assignment statements.}
+    3|  const  yes = true;
+    4|         no = false;
+    5|  var    a,b,c: boolean;
+    6|         w,z: boolean;
+    7|         d,e: boolean;
+    8|  begin
+    9|    b:= true;
+   10|
+Error: Line 10: Compiler Error: stack overflow
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

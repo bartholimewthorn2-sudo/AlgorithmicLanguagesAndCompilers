@@ -1,0 +1,15 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no178; Programe Name: stage1no178
+    2|const w=3;x=true;
+    3|var   d:boolean;
+    4|      a,b:integer;
+    5|begin
+    6|  read(a,b);
+    7|
+    8|  d := -a >=
+Error: Line 8: token to right of "=" illegal
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

@@ -1,0 +1,65 @@
+
+CS 4301
+Lab -663642295
+
+
+Input:  aab *** valid input ***
+
+Input:  aba --- invalid input ---
+
+Input:  baa --- invalid input ---
+
+Input:  babab *** valid input ***
+
+Input:  aabbb *** valid input ***
+
+Input:  bbbaa --- invalid input ---
+
+Input:  abbba --- invalid input ---
+
+Input:  aabbbbb *** valid input ***
+
+Input:  bbbbbbbaa --- invalid input ---
+
+Input:  bbbabbbabbb *** valid input ***
+
+Input:   *** valid input ***
+
+Input:  a *** valid input ***
+
+Input:  b *** valid input ***
+
+Input:  aa *** valid input ***
+
+Input:  ab *** valid input ***
+
+Input:  ba --- invalid input ---
+
+Input:  bb *** valid input ***
+
+Input:  aaa *** valid input ***
+
+Input:  baa --- invalid input ---
+
+Input:  aba --- invalid input ---
+
+Input:  bbb *** valid input ***
+
+Input:  abba --- invalid input ---
+
+Input:  baba *** valid input ***
+
+Input:  babba *** valid input ***
+
+Input:  abbbba --- invalid input ---
+
+Input:  bbabababa *** valid input ***
+
+Input:  bbaaaabaaa *** valid input ***
+
+Input:  babaaabaaa --- invalid input ---
+
+Input:  abaaaaaaaaaaa --- invalid input ---
+
+Input:  bababaabababa *** valid input ***
+

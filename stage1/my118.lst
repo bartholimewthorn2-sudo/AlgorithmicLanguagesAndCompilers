@@ -1,0 +1,15 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:41 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no118; Programe Name: stage1no118
+    2|        {demonstrate incorrect usage of Pascal assignment statements.}
+    3|  const  a = true;
+    4|         b = false;
+    5|  var    c,d,e: boolean;
+    6|         w,z,y,x: integer;
+    7|  begin
+    8|    c := (w=z
+Error: Line 8: token to right of "=" illegal
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

@@ -1,0 +1,10 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no128; Programe Name: stage1no128
+    2|begin
+    3|  read(5); {non-keyword identifier expected}
+    4|end.
+
+COMPILATION TERMINATED      0 ERRORS ENCOUNTERED

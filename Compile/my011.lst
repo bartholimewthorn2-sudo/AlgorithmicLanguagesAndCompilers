@@ -1,0 +1,12 @@
+STAGE0:  LOUIS JENSEN       Thu Nov 21 21:41:48 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage0no011;
+    2|   {no real numbers in our Pascallite}
+    3|
+    4|   const car = 2;
+    5|         wrong = 3.5
+Error: Line 5: Semicolon expected
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

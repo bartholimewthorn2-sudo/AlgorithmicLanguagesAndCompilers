@@ -1,0 +1,120 @@
+Your Name
+CS 4301
+Lab 10
+{(x=, x=y) | x is in {a,b}* and
+             y contains the elements from x in ascending order}
+
+Input:  =
+Output:            =
+
+Input:  a=
+Output:            a=a
+
+Input:  b=
+Output:            b=b
+
+Input:  aa=
+Output:            aa=aa
+
+Input:  ab=
+Output:            ab=ab
+
+Input:  ba=
+Output:            ba=ab
+
+Input:  bb=
+Output:            bb=bb
+
+Input:  aaa=
+Output:            aaa=aaa
+
+Input:  aab=
+Output:            aab=aab
+
+Input:  aba=
+Output:            aba=aab
+
+Input:  abb=
+Output:            abb=abb
+
+Input:  baa=
+Output:            baa=aab
+
+Input:  bab=
+Output:            bab=abb
+
+Input:  bba=
+Output:            bba=abb
+
+Input:  bbb=
+Output:            bbb=bbb
+
+Input:  aaaa=
+Output:            aaaa=aaaa
+
+Input:  aaab=
+Output:            aaab=aaab
+
+Input:  aaba=
+Output:            aaba=aaab
+
+Input:  aabb=
+Output:            aabb=aabb
+
+Input:  abaa=
+Output:            abaa=aaab
+
+Input:  abab=
+Output:            abab=aabb
+
+Input:  abba=
+Output:            abba=aabb
+
+Input:  abbb=
+Output:            abbb=abbb
+
+Input:  baaa=
+Output:            baaa=aaab
+
+Input:  baab=
+Output:            baab=aabb
+
+Input:  baba=
+Output:            baba=aabb
+
+Input:  babb=
+Output:            babb=abbb
+
+Input:  bbaa=
+Output:            bbaa=aabb
+
+Input:  bbab=
+Output:            bbab=abbb
+
+Input:  bbba=
+Output:            bbba=abbb
+
+Input:  bbbb=
+Output:            bbbb=bbbb
+
+Input:  aaabbb=
+Output:            aaabbb=aaabbb
+
+Input:  aababb=
+Output:            aababb=aaabbb
+
+Input:  aabbab=
+Output:            aabbab=aaabbb
+
+Input:  abaabb=
+Output:            abaabb=aaabbb
+
+Input:  ababab=
+Output:            ababab=aaabbb
+
+Input:  abaaabbabb=
+Output:            abaaabbabb=aaaaabbbbb
+
+Input:  abaabbba=
+Output:            abaabbba=aaaabbbb
+

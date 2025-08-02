@@ -1,0 +1,75 @@
+Louis Jensen
+CS 4301
+Lab 5
+{x | x in {a, b}* and every substring of length four has at least one b}
+
+Input:   *** valid input ***
+
+Input:  a *** valid input ***
+
+Input:  b *** valid input ***
+
+Input:  aa *** valid input ***
+
+Input:  ab *** valid input ***
+
+Input:  ba *** valid input ***
+
+Input:  bb *** valid input ***
+
+Input:  aaa *** valid input ***
+
+Input:  aab *** valid input ***
+
+Input:  aba *** valid input ***
+
+Input:  abb *** valid input ***
+
+Input:  baa *** valid input ***
+
+Input:  bab *** valid input ***
+
+Input:  bba *** valid input ***
+
+Input:  bbb *** valid input ***
+
+Input:  aaaa --- invalid input ---
+
+Input:  abba *** valid input ***
+
+Input:  baba *** valid input ***
+
+Input:  bbbb *** valid input ***
+
+Input:  aaaaa --- invalid input ---
+
+Input:  aaaab --- invalid input ---
+
+Input:  aaaba *** valid input ***
+
+Input:  aabaa *** valid input ***
+
+Input:  aaabaa *** valid input ***
+
+Input:  aabaaa *** valid input ***
+
+Input:  abaaaa --- invalid input ---
+
+Input:  baaaaa --- invalid input ---
+
+Input:  bbaaaab --- invalid input ---
+
+Input:  bbaaaba *** valid input ***
+
+Input:  bbaabaa *** valid input ***
+
+Input:  bbbaaaa --- invalid input ---
+
+Input:  aabaaaab --- invalid input ---
+
+Input:  aabaaaba *** valid input ***
+
+Input:  aabaabaa *** valid input ***
+
+Input:  aabbaaaa --- invalid input ---
+

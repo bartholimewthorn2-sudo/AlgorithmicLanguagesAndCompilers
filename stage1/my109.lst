@@ -1,0 +1,12 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:41 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no109; Programe Name: stage1no109
+    2|  var  a,b:integer;
+    3|       g:boolean;
+    4|  begin
+    5|    a:= true; 
+Error: Line 5: Compiler Error: stack overflow
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

@@ -1,0 +1,18 @@
+STAGE0:  LOUIS JENSEN       Thu Nov 21 21:41:48 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|{contributed by Zachary Deere & Ryan Dennis, 29-Oct-2018}
+    2|program    stage0no050;
+    3|     const
+    4|            a = 1;
+    5|            b = a;
+    6|            c = stage0no050; {data type of token on the right-hand side must be INTEGER or BOOLEAN}
+    7|            d = 3;
+    8|     var
+    9|            yes,no,maybe:boolean;
+   10|            smallnum,bignum,biggernum:integer;
+   11|     begin
+   12|     end.
+
+COMPILATION TERMINATED      0 ERRORS ENCOUNTERED

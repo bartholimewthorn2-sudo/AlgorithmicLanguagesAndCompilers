@@ -1,0 +1,19 @@
+prog; bool yes; bool no; int small; int smalleryet; int big; int biggeryet; int large; bool maybe; int some; int many; bool right; bool wrong; 
+STAGE0:  Louis Jensen and Jacob Tucker  Sun Nov 10 19:29:34 2019
+
+Symbol Table
+
+stage0no001       P0            2         1      stage0no001    1  0
+yes               B0            1         1                1    0  1
+no                B1            1         1                0    0  1
+small             I0            0         1                0    0  1
+smalleryet        I1            0         1               -1    0  1
+big               I2            0         1                1    0  1
+biggeryet         I3            0         1                2    0  1
+large             I4            0         1        biggeryet    0  1
+maybe             B2            1         1                0    0  1
+some              I5            0         0                     0  1
+many              I6            0         0                     0  1
+right             B3            1         0                     0  1
+wrong             B4            1         0                     0  1
+Passed

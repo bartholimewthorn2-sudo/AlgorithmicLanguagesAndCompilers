@@ -1,0 +1,26 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no165; Programe Name: stage1no165
+    2|const
+    3|  a = true;
+    4|  b = false;
+    5|  c = not false;
+    6|  d = not true;
+    7|  e = 5;
+    8|  f = +5;
+    9|  g = -5;
+   10|  h = g;
+   11|var
+   12|  i, j : integer;
+   13|  k : boolean;
+   14|begin
+   15|  read(i) 
+   16|  ; read(j);
+   17|  write(i, j);
+   18|  k := not (a = c); {legal}
+   19|  k := not true; 
+Error: Line 19: token to right of "=" illegal
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

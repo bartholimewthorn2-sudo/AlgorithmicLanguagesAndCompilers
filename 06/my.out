@@ -1,0 +1,59 @@
+Louis Jensen
+CS 4301
+Lab 6
+{a^(2i)b^(3i) | i >= 0}
+
+Input:    Result:  ** accepted **
+
+Input:  a  Result:  -- NOT accepted --
+
+Input:  b  Result:  -- NOT accepted --
+
+Input:  aa  Result:  -- NOT accepted --
+
+Input:  ab  Result:  -- NOT accepted --
+
+Input:  ba  Result:  -- NOT accepted --
+
+Input:  bb  Result:  -- NOT accepted --
+
+Input:  aaa  Result:  -- NOT accepted --
+
+Input:  aab  Result:  -- NOT accepted --
+
+Input:  aba  Result:  -- NOT accepted --
+
+Input:  abb  Result:  -- NOT accepted --
+
+Input:  baa  Result:  -- NOT accepted --
+
+Input:  bab  Result:  -- NOT accepted --
+
+Input:  bba  Result:  -- NOT accepted --
+
+Input:  bbb  Result:  -- NOT accepted --
+
+Input:  aabbb  Result:  ** accepted **
+
+Input:  aaaabbbbbb  Result:  ** accepted **
+
+Input:  aaaaaabbbbbbbbb  Result:  ** accepted **
+
+Input:  aaaaaaaabbbbbbbbbbbb  Result:  ** accepted **
+
+Input:  abbb  Result:  -- NOT accepted --
+
+Input:  aaabbb  Result:  -- NOT accepted --
+
+Input:  aab  Result:  -- NOT accepted --
+
+Input:  aabb  Result:  -- NOT accepted --
+
+Input:  aabbbb  Result:  -- NOT accepted --
+
+Input:  aaaaaaaaaabbbbbbbbbbbbbbb  Result:  ** accepted **
+
+Input:  aaaaaaaabbbbbbbbbbbbbbbbbbbb  Result:  -- NOT accepted --
+
+Input:  aaaaaaaaaabbbbbbbbbbbb  Result:  -- NOT accepted --
+

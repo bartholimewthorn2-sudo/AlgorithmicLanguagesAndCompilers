@@ -1,0 +1,105 @@
+Your Name
+CS 4301
+Lab 7
+{w | w is a legal NASM integer constant}
+
+Input:    Result:  -- NOT accepted --
+
+Input:  0  Result:  ** accepted **
+
+Input:  0xad  Result:  ** accepted **
+
+Input:  0XaD  Result:  ** accepted **
+
+Input:  0hAd  Result:  ** accepted **
+
+Input:  0HAD  Result:  ** accepted **
+
+Input:  0d_4301  Result:  ** accepted **
+
+Input:  0D4_301  Result:  ** accepted **
+
+Input:  0t43_01  Result:  ** accepted **
+
+Input:  0T430_1  Result:  ** accepted **
+
+Input:  0d4301_  Result:  ** accepted **
+
+Input:  0d2_147_483_647  Result:  ** accepted **
+
+Input:  2_147_483_647  Result:  ** accepted **
+
+Input:  2_147_483_647t  Result:  ** accepted **
+
+Input:  _2_147_483_647  Result:  -- NOT accepted --
+
+Input:  2_147_483_647_  Result:  ** accepted **
+
+Input:  0.5  Result:  -- NOT accepted --
+
+Input:  0o01  Result:  ** accepted **
+
+Input:  0O23  Result:  ** accepted **
+
+Input:  0q45  Result:  ** accepted **
+
+Input:  0Q67  Result:  ** accepted **
+
+Input:  0b10  Result:  ** accepted **
+
+Input:  0B11  Result:  ** accepted **
+
+Input:  0y100  Result:  ** accepted **
+
+Input:  0Y1100_0011  Result:  ** accepted **
+
+Input:  0b1100_0011  Result:  ** accepted **
+
+Input:  0B1100_0011  Result:  ** accepted **
+
+Input:  1100_0011b  Result:  ** accepted **
+
+Input:  1100_0011B  Result:  ** accepted **
+
+Input:  1100_0011y  Result:  ** accepted **
+
+Input:  1100_0011Y  Result:  ** accepted **
+
+Input:  0h  Result:  ** accepted **
+
+Input:  12345h  Result:  ** accepted **
+
+Input:  0faceH  Result:  ** accepted **
+
+Input:  0123_4567_89aA_bBcC_dDeE_fFX  Result:  ** accepted **
+
+Input:  0123456789aAbBcCdDeEfFx  Result:  ** accepted **
+
+Input:  0123456789aAbBcCdDeEfFh  Result:  ** accepted **
+
+Input:  0123456789aAbBcCdDeEfFH  Result:  ** accepted **
+
+Input:  0123456789aAbBcCdDeEfFb  Result:  -- NOT accepted --
+
+Input:  0123456789aAbBcCdDeEfFo  Result:  -- NOT accepted --
+
+Input:  0123456789aAbBcCdDeEfFd  Result:  -- NOT accepted --
+
+Input:  0123456789aAbBcCdDeEfF  Result:  -- NOT accepted --
+
+Input:  01234d  Result:  ** accepted **
+
+Input:  01234  Result:  ** accepted **
+
+Input:  01234a  Result:  -- NOT accepted --
+
+Input:  01234567o  Result:  ** accepted **
+
+Input:  012345678o  Result:  -- NOT accepted --
+
+Input:  01b  Result:  ** accepted **
+
+Input:  0_1_b  Result:  ** accepted **
+
+Input:  _0_1_y  Result:  -- NOT accepted --
+

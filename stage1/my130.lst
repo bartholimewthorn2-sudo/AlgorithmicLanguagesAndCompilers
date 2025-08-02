@@ -1,0 +1,13 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no130; Programe Name: stage1no130
+    2|const
+    3|  one = 1;
+    4|  two = 2;
+    5|begin
+    6|  write(one + 
+Error: Line 6: ")" expected
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

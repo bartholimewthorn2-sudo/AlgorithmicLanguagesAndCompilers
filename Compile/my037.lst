@@ -1,0 +1,11 @@
+STAGE0:  LOUIS JENSEN       Thu Nov 21 21:41:48 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage0no037_this_name_is_really_long;
+    2|    const
+    3|      stage0no037_this_name_is_really_long = true;
+    4|
+Error: Line 4: Symbol is defined multiple times
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

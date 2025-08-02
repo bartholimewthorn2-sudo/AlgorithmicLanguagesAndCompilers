@@ -1,0 +1,13 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no140; Programe Name: stage1no140
+    2|var
+    3|  a, b, c, d, e, f, g : integer;
+    4|begin
+    5|  read(a, b, c, d, e, f);
+    6|  g := a mod (b * 
+Error: Line 6: token to right of "=" illegal
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

@@ -1,0 +1,20 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:41 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no105; Programe Name: stage1no105
+    2|        {demonstrate correct usage of Pascallite features.}
+    3|  const  zero = 0; five = 5;
+    4|  var    a,b,c: integer; w,z: integer;
+    5|  begin
+    6|  read(a);
+    7|  read(b);
+    8|  read(c);
+    9|  read(z);
+   10|  z := b mod a;
+   11|  w := c * z;
+   12|  a := -z;
+   13|
+Error: Line 13: token to right of "=" illegal
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

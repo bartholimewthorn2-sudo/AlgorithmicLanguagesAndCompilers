@@ -1,0 +1,12 @@
+STAGE0:  LOUIS JENSEN       Thu Nov 21 21:41:48 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|
+    2|program stage0no034;
+    3|  { whitespace can precede the program statement }
+    4|  { whitespace can follow end.}
+    5|    begin
+    6|    end.    
+
+COMPILATION TERMINATED      0 ERRORS ENCOUNTERED

@@ -1,0 +1,9 @@
+STAGE0:  LOUIS JENSEN       Thu Nov 21 21:41:48 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage0no036_this_name_is_really_long;
+    2|    begin
+    3|    end.
+
+COMPILATION TERMINATED      0 ERRORS ENCOUNTERED

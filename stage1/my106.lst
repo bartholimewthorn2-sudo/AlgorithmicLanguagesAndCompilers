@@ -1,0 +1,16 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:41 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program   stage1no106; Programe Name: stage1no106
+    2|          {demonstrates correct usage of Pascallite features}
+    3|  var   a,b,c,
+    4|        d :integer;
+    5|  begin
+    6|    read(b);
+    7|    read(c);
+    8|    a := 3;
+    9|
+Error: Line 9: Compiler Error: stack overflow
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED

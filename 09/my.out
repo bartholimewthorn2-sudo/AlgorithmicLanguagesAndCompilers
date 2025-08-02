@@ -1,0 +1,97 @@
+Louis Jensen
+CS 4301
+Lab 9
+{(x=, x=ans) | x is in {a,b}*,
+               ans = 1 if x contains an even number of substrings ba
+               ans = 0 otherwise}
+
+Input:  aab=
+Output:            aab=1
+
+Input:  aba=
+Output:            aba=0
+
+Input:  baa=
+Output:            baa=0
+
+Input:  babab=
+Output:            babab=1
+
+Input:  aabbb=
+Output:            aabbb=1
+
+Input:  bbbaa=
+Output:            bbbaa=0
+
+Input:  abbba=
+Output:            abbba=0
+
+Input:  aabbbbb=
+Output:            aabbbbb=1
+
+Input:  bbbbbbbaa=
+Output:            bbbbbbbaa=0
+
+Input:  bbbabbbabbb=
+Output:            bbbabbbabbb=1
+
+Input:  =
+Output:            =1
+
+Input:  a=
+Output:            a=1
+
+Input:  b=
+Output:            b=1
+
+Input:  aa=
+Output:            aa=1
+
+Input:  ab=
+Output:            ab=1
+
+Input:  ba=
+Output:            ba=0
+
+Input:  bb=
+Output:            bb=1
+
+Input:  aaa=
+Output:            aaa=1
+
+Input:  baa=
+Output:            baa=0
+
+Input:  aba=
+Output:            aba=0
+
+Input:  bbb=
+Output:            bbb=1
+
+Input:  abba=
+Output:            abba=0
+
+Input:  baba=
+Output:            baba=1
+
+Input:  babba=
+Output:            babba=1
+
+Input:  abbbba=
+Output:            abbbba=0
+
+Input:  bbabababa=
+Output:            bbabababa=1
+
+Input:  bbaaaabaaa=
+Output:            bbaaaabaaa=1
+
+Input:  babaaabaaa=
+Output:            babaaabaaa=0
+
+Input:  abaaaaaaaaaaa=
+Output:            abaaaaaaaaaaa=0
+
+Input:  bababaabababa=
+Output:            bababaabababa=1
+

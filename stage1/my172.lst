@@ -1,0 +1,13 @@
+STAGE1:  LOUIS JENSEN       Sun Dec  8 23:54:42 2024
+
+LINE NO.              SOURCE STATEMENT
+
+    1|program stage1no172; Programe Name: stage1no172
+    2|const w=3;x=true;
+    3|var   d:boolean;
+    4|begin
+    5|  d := x or x;
+    6|  d := x or not 
+Error: Line 6: Compiler error since function should not be called with illegal arguemetns
+
+COMPILATION TERMINATED      1 ERROR ENCOUNTERED
